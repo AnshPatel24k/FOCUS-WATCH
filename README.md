@@ -1,2 +1,0 @@
-# FOCUS-WATCH
-Timer
